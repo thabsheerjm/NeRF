@@ -1,7 +1,17 @@
 # NeRF - Neural Radiance Field 
-Implementing the original method from [1](https://arxiv.org/abs/2003.08934). 
+Implementing the original method from [[1]](https://arxiv.org/abs/2003.08934). 
 
 ## How to Run
+Train the network:
+
+```
+train.py
+```
+Test the  networ:
+
+```
+test.py
+```
 
 ## Results 
 
